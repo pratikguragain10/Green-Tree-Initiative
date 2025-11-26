@@ -1,0 +1,24 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node modules (if you install npm later)
+node_modules/
+
+# Log files
+*.log
+
+# Environment files
+.env
+.env.local
+
+# Build output (in case you use build tools later)
+dist/
+build/
+
+# Netlify
+.netlify
+
+# Zipped files
+*.zip
+
