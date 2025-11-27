@@ -10,7 +10,6 @@
 	box-sizing: border-box;
 }
 
-/* create header using flex-box */
 .header {
 	box-sizing: border-box;
 	background-color: white;
@@ -40,7 +39,7 @@
 	font: Bold 1em Helvetica;
 	color: #354463;
 	background: #c1f7d5;
-	border-radius: 25px;
+	border-radius: 45px;
 	padding: 1.2rem 2rem;
 	text-decoration: none;
 }
